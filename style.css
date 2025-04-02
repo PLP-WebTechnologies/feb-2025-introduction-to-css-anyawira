@@ -1,1 +1,22 @@
-
+.header-style{
+  font-famiyl: times new roman;
+  font-size: 25 px;
+  color: blue;
+  text-align; center;
+}
+#main-paragraph{
+  font-family: times new roman;
+  color: black;
+  margin: 20 px;
+  padding: 10 px;
+  margin: 1 px solid black;
+}
+img{
+  display: block;
+  margin: 20 px auto;
+  padding: 10 px;
+  border: 1 px solid black;
+  border-radius: 10 px;
+  max-width: 100 %;
+  height: auto;
+}
